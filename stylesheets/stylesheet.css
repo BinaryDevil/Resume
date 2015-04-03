@@ -113,6 +113,9 @@ a {
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957; }
+.main-content h1, .main-content h2{
+  font-weight: bold;
+}
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -223,7 +226,8 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px #eff0f1;
+  text-align: center; }
 
 .site-footer-owner {
   display: block;
